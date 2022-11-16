@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d2f6015.css",
-    "main.js": "/static/js/main.12b6b8f0.js",
-    "static/js/787.4b6ca5d5.chunk.js": "/static/js/787.4b6ca5d5.chunk.js",
-    "index.html": "/index.html",
-    "main.2d2f6015.css.map": "/static/css/main.2d2f6015.css.map",
-    "main.12b6b8f0.js.map": "/static/js/main.12b6b8f0.js.map",
-    "787.4b6ca5d5.chunk.js.map": "/static/js/787.4b6ca5d5.chunk.js.map"
+    "main.css": "/ionic-naming-game/static/css/main.2becefd1.css",
+    "main.js": "/ionic-naming-game/static/js/main.8e7067fb.js",
+    "static/js/787.4b6ca5d5.chunk.js": "/ionic-naming-game/static/js/787.4b6ca5d5.chunk.js",
+    "static/media/periodic-table.png": "/ionic-naming-game/static/media/periodic-table.99976db535468d9bb099.png",
+    "index.html": "/ionic-naming-game/index.html",
+    "main.2becefd1.css.map": "/ionic-naming-game/static/css/main.2becefd1.css.map",
+    "main.8e7067fb.js.map": "/ionic-naming-game/static/js/main.8e7067fb.js.map",
+    "787.4b6ca5d5.chunk.js.map": "/ionic-naming-game/static/js/787.4b6ca5d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2f6015.css",
-    "static/js/main.12b6b8f0.js"
+    "static/css/main.2becefd1.css",
+    "static/js/main.8e7067fb.js"
   ]
 }
