@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://ehre9305.github.io/ionic-naming-game/static/css/main.87ace101.css",
-    "main.js": "https://ehre9305.github.io/ionic-naming-game/static/js/main.06c1bff0.js",
+    "main.js": "https://ehre9305.github.io/ionic-naming-game/static/js/main.cb9fc291.js",
     "static/js/787.4b6ca5d5.chunk.js": "https://ehre9305.github.io/ionic-naming-game/static/js/787.4b6ca5d5.chunk.js",
     "static/media/periodic-table.png": "https://ehre9305.github.io/ionic-naming-game/static/media/periodic-table.99976db535468d9bb099.png",
     "index.html": "https://ehre9305.github.io/ionic-naming-game/index.html",
     "main.87ace101.css.map": "https://ehre9305.github.io/ionic-naming-game/static/css/main.87ace101.css.map",
-    "main.06c1bff0.js.map": "https://ehre9305.github.io/ionic-naming-game/static/js/main.06c1bff0.js.map",
+    "main.cb9fc291.js.map": "https://ehre9305.github.io/ionic-naming-game/static/js/main.cb9fc291.js.map",
     "787.4b6ca5d5.chunk.js.map": "https://ehre9305.github.io/ionic-naming-game/static/js/787.4b6ca5d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87ace101.css",
-    "static/js/main.06c1bff0.js"
+    "static/js/main.cb9fc291.js"
   ]
 }
